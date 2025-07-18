@@ -1,9 +1,5 @@
 Este script fue desarrollado como respuesta a un challenge técnico. Se encarga de procesar y validar información contenida en un archivo `estudios.csv` con datos sobre estudios médicos.
 
----
-
-## 📌 ¿Qué hace el script?
-
 1. Lee el archivo `estudios.csv` usando `pandas`.
 2. Limpia espacios en blanco en los campos de texto.
 3. Convierte la columna `Fecha` al tipo de dato `datetime`.
