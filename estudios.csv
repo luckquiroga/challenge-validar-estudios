@@ -1,0 +1,7 @@
+Paciente,Edad,Estudio,Fecha,Estado,ID_Estudio
+Juan Perez,35,RX de Tórax,2024-06-25,Completado,1001
+Maria Gomez,-2,RM de Cráneo,2024-06-26,Pendiente,1002
+Pedro Lopez,28,,2024-06-26,Completado,1003
+Ana Diaz,50,RX de Tórax,2024-06-27,Fallido,1001
+Luis Ramirez,200,Ecografía,2024-06-27,Completado,1004
+Carla Rossi,40,RX de Tórax,2024-06-28,Completado,1005
